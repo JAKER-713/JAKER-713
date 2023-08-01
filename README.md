@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JAKER-713
 - 👀 I’m interested in ... Web-Programming
 - 🌱 I’m currently learning ... Arduino
-- 👾 I´ve hacked the ... school
 - 🇩🇪 Germany!
 
 <!---
